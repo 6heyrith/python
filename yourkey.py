@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "YOUR TOKEN"
+BOT_TOKEN = "8611382716:AAHtyJE_gCEHAXb5SJEInDJ-hwmzKDWk8xM"
 
 class Country:
     # Manually defined constructor replacing
